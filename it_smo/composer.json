@@ -1,0 +1,9 @@
+{
+    "name": "it_smo/website",
+    "description": "IT SMO Website",
+    "type": "project",
+    "require": {
+        "php": ">=7.4",
+        "phpoffice/phpspreadsheet": "^4.3"
+    }
+}
