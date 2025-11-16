@@ -221,9 +221,9 @@ fetch('/api/endpoints/documents.php', {
 
 ## 📞 ติดต่อ
 
-- **Email**: [email@example.com]
-- **Website**: [website-url]
-- **GitHub**: [github-url]
+- **Email**: ngamakeam@gmail.com
+- **Website**: 
+- **GitHub**: 
 
 ---
 
