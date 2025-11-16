@@ -16,6 +16,8 @@
 
 ### ความต้องการของระบบ
 - PHP 7.4 หรือสูงกว่า
+- HTML 5
+- Bootrap
 - MySQL 5.7 หรือสูงกว่า
 - Apache/Nginx Web Server
 - Composer (สำหรับการจัดการ dependencies)
