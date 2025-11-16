@@ -209,10 +209,6 @@ fetch('/api/endpoints/documents.php', {
 3. Commit การเปลี่ยนแปลง
 4. ส่ง Pull Request
 
-## 📄 License
-
-โปรเจกต์นี้อยู่ภายใต้ MIT License
-
 ## 👨‍💻 ผู้พัฒนา
 
 **IT Student Club Development Team**
